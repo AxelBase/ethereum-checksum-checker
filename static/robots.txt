@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://axelbase.github.io/ethereum-checksum-checker/sitemap.xml
+Sitemap: https://ethereum-checksum-checker.vercel.app/sitemap.xml
